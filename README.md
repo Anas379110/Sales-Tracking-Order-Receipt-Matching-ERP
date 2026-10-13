@@ -1,21 +1,20 @@
-# ERP لتتبع المبيعات ومطابقة الطلبات مع الاستلام الفعلي
-**Sales Tracking & Order-Receipt Matching ERP** · التصنيف: منصة تجارية
+# Sales Tracking & Order-Receipt Matching ERP
+**Sales Tracking & Order-Receipt Matching ERP** · Category: Business Platform
 
-> وثيقة تعريفية بالمشروع (المواصفات والتقنيات) — لا تتضمن الكود المصدري.
 > Project overview document — source code is not included.
 
-## نبذة عن المشروع
-برنامج ERP لتتبع المبيعات ومطابقة الطلبات مع الاستلام الفعلي لكشف الفروقات مبكراً.
+## Project Overview
+An ERP application for sales tracking and matching orders with actual receipts to detect discrepancies early.
 
-## أبرز النقاط
-- مطابقة الطلب مع التسليم مع تنبيه للفروقات
-- تتبع مسار المبيعات وأداء المندوبين
-- تقارير مطابقة قابلة للتصدير
+## Key Points
+- Order-to-delivery matching with discrepancy alerts
+- Sales pipeline tracking and sales representative performance
+- Exportable reconciliation reports
 
-## الدور
-مطوّر منصات أعمال: تحليل المتطلبات وبناء النظام ولوحة الإدارة وقاعدة البيانات والتقارير.
+## Role
+Business Platforms Developer: requirements analysis and building the system, admin dashboard, database, and reports.
 
-## التقنيات المستخدمة
+## Technologies used
 Django, Django REST, PostgreSQL, React, Celery, Docker
 
-التفاصيل في [TECHSTACK.md](./TECHSTACK.md).
+Details in [TECHSTACK.md](./TECHSTACK.md).

@@ -1,4 +1,4 @@
-# 🛠️ التقنيات المستخدمة — ERP لتتبع المبيعات ومطابقة الطلبات مع الاستلام الفعلي
+# 🛠️ Technologies — ERP for Sales Tracking & Order-Receipt Matching
 
 - Django
 - Django REST
